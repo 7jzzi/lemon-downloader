@@ -22,3 +22,4 @@ backups/
 exe_build/dist_new/
 exe_build/*.zip
 exe_build/last_release.txt
+exe_build/LEMON-*/
